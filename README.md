@@ -1,0 +1,2 @@
+# WorldRule
+A nukkit plugin.
