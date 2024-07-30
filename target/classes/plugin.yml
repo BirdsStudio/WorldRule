@@ -1,0 +1,6 @@
+name: WorldRule
+version: 1.0.0
+main: dev.eison.worldrule.Main
+api: ['1.0.14']
+author: Eison
+description: World rule.

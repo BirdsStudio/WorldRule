@@ -1,0 +1,9 @@
+dev\eison\worldrule\command\WorldRuleCommand.class
+dev\eison\worldrule\playerData\ItemSerializer.class
+dev\eison\worldrule\playerData\PlayerData.class
+dev\eison\worldrule\form\WorldsForm.class
+dev\eison\worldrule\playerData\WorldDataConfig.class
+dev\eison\worldrule\form\WorldRuleForm.class
+dev\eison\worldrule\Main.class
+dev\eison\worldrule\playerData\EventListener.class
+dev\eison\worldrule\playerData\WorldDataManager.class
